@@ -18,3 +18,10 @@
     # Commit the files to the repository - git commit -m "Initial commit"
     # Push the files to the repository - git push origin main
 
+3️⃣ Let, Const and Var - 
+    # Let and Const are block scoped and Var is function scoped.
+    # Let and Const are not hoisted and Var is hoisted.
+    # Let and Const are not re-declarable and Var is re-declarable.
+    # Let and Const are not re-assignable and Var is re-assignable.
+    # Let and Const are not accessible before declaration and Var is accessible before declaration.
+    # Let and Const are not accessible outside the block and Var is accessible outside the block.
