@@ -1,0 +1,20 @@
+🎯 JAVASCRIPT START 
+
+1️⃣ Setup the Javascript Enviroment -->
+    # First create a folder - \comp-js
+    # Create a documentation file - docs.txt
+    # Install the NodeJs a javascript runtime enviroment download the LTS version - https://nodejs.org/en/
+    # Install VS Code - https://code.visualstudio.com/
+    # Open the folder in VS Code - File -> Open Folder -> \comp-js
+    # Install Git - https://git-scm.com/
+    # Check the node version in the terminal by typing - node -v
+    # Check the npm version in the terminal by typing - npm -v
+    # To run the javascript file in the terminal type - node filename.js
+
+2️⃣ Save and Work on Github - https://github.com/ - Github is a version control system helps you understand and save, share your code. 
+    # Create a repository - comp-js
+    # Clone the repository - git clone https://github.com/username/comp-js.git
+    # Add the files to the repository - git add .
+    # Commit the files to the repository - git commit -m "Initial commit"
+    # Push the files to the repository - git push origin main
+
